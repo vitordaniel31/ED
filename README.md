@@ -16,10 +16,11 @@
 
 ## 💻 Sobre o projeto
 
-💻 ED - Relatório 1: conjunto de algoritmos utilizados na disciplina DCT0008  - Estrutura de Dados, para fins didáticos. Além dos algoritmos que podem ser executados, o repositório contém:
-	- [I] Gráficos com estimativas práticas do tempo de execução do algoritmo;;
-  	- [II] Análise analítica do tempo de execução do algoritmo;;
-  	- [III] Uma comparação sobre o desempenho de cada algoritmo em relação ao custo em tempo e memória.💻
+💻 ED - Relatório 1: conjunto de algoritmos utilizados na disciplina DCT0008  - Estrutura de Dados, para fins didáticos. Além dos algoritmos que podem ser executados, o repositório contém: 💻
+
+	- [I] Gráficos com estimativas práticas do tempo de execução do algoritmo;
+  	- [II] Análise analítica do tempo de execução do algoritmo;
+  	- [III] Uma comparação sobre o desempenho de cada algoritmo em relação ao custo em tempo e memória.
 
 ---
 
