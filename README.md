@@ -27,9 +27,9 @@
 ## ⚙️ Algoritmos
 
 - [x] Os algoritmos que estão contidos nesse projeto são:
-  - [x] Insertion-sort;
-  - [x] Merge-sort;
-  - [x] Quick-sort.
+  - [x] Insertion Sort;
+  - [x] Merge Sort;
+  - [x] Quicksort.
 
 ---
 
@@ -38,16 +38,19 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
-[Git](https://git-scm.com) e [PHP](https://www.php.net/).
+[Git](https://git-scm.com) e [Python](https://www.python.org).
 
 #### 🎲 Rodando o projeto
+
+##### Observações:
+	- [I] Nos algoritmos de Insertion Sort e Quicksort, é preciso alterar o código, descomentando a linha na qual deseja-se obter o tempo (melhor, médio ou pior;
+  	- [II] No algoritmo de Quicksort, é preciso alterar o código, descomentando 31 da função partition para obter o melhor caso e também, descomentar as linhas 6 e 7 caso o python não aceite o "tamanho da recursividade".
 
 ```bash
 # Clone este repositório
 $ git clone https://github.com/vitordaniel31/ED.git
 $ cd ED/relatorio-1/fontes/
-$ php algorithm.php
-# Nos algoritmos de Insertion-sort e Quick-sort, é preciso alterar o código, descomentando a linha na qual deseja-se obter o tempo (melhor, médio ou pior)
+$ python algorithm.py
 ```
 
 ---
@@ -56,7 +59,7 @@ $ php algorithm.php
 
 As seguintes teconlogias foram usadas na construção do projeto:
 
--   **[PHP](https://www.php.net/)**
+-   **[Python](https://www.python.org)**
 
 ## ✒️ Autor
 
